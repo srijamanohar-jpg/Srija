@@ -1,0 +1,16 @@
+{
+  "social_studies": {
+    "class_5": [
+      {"id": 1, "chapter": "The Earth", "topic": "Geography"},
+      {"id": 2, "chapter": "Early Life", "topic": "History"}
+    ],
+    "class_6": [
+      {"id": 1, "chapter": "Reading Maps", "topic": "Geography"},
+      {"id": 2, "chapter": "Harappan Civilization", "topic": "History"}
+    ],
+    "class_7": [
+      {"id": 1, "chapter": "The Mughal Empire", "topic": "History"},
+      {"id": 2, "chapter": "The Universe", "topic": "Geography"}
+    ]
+  }
+}
